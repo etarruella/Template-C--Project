@@ -5,6 +5,7 @@ namespace DBTables.Overflow
     public class Comment {
         
         public int id;
+        
         public Datetime creationDate;
 
         public int postId;
